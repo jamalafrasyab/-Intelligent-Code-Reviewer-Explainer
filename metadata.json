@@ -1,0 +1,6 @@
+{
+  "name": "DecodeLabs Intelligent Code Reviewer & Gatekeeper",
+  "description": "An autonomous AI-powered code analysis pipeline and architectural gatekeeper that ingests raw source files, enforces strict structured outputs, validates bug reports, and renders IDE-quality syntax-highlighted refactorings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
